@@ -1,0 +1,1 @@
+React useState ve useEffect hooklarının diğer bir kullanımı
